@@ -11,9 +11,10 @@
  */
 class HelloNurse 
 {
-    //put your code here
-    //
-    //
-    //
+    function __construct()
+    {
+	echo "<h1>Hello Nurse !!!</h1>";
+    }
+    
 }
 ?>
