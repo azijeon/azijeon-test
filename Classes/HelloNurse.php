@@ -9,7 +9,8 @@
  *
  * @author nikolay.dachin
  */
-class HelloNurse {
+class HelloNurse 
+{
     //put your code here
 }
 ?>
